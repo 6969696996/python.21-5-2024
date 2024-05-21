@@ -1,0 +1,6 @@
+ages = 18
+age = int(input("Enter your age: "))
+if age >= ages:
+    print("You are eligible.")
+else:
+    print("You are not eligible.")
